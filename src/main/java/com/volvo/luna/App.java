@@ -34,9 +34,9 @@ import com.volvo.luna.reader.TxtFileReader;
 public class App 
 {
 	
-	private static final String SOURCE_DIR = "C:\\work\\workspace\\eclipse_workspace\\luna\\files\\source";
+	private static final String SOURCE_DIR = "files\\source";
 	
-	private static final String INDEX_DIR = "C:\\work\\workspace\\eclipse_workspace\\luna\\files\\index";
+	private static final String INDEX_DIR = "files\\index";
 	
 	private static final String FIELD_FILENAME = "fileName";
 	private static final String FIELD_FILEPATH = "filePath";
