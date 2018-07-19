@@ -1,0 +1,25 @@
+Thanks everyone, today I am going to show you the innovation activities in our SITS3 team. 
+
+Some of you may already know we have done lots of work last year on the innovation demo like iot smart warehouse, chatbot or wechat development. 
+
+This year we are continue focusing on the competence development and trying to build something with the technologies we already leart and to create real value to the customer or to ourselves. 
+
+In the following introduction you will see the what we are doing to build our competence, which innovation project we are working on and what's our plan for future.
+
+
+
+First I want to introduce our team, actually at the beginning of these year, we decided to pick up one topic from all of the mordern technologies and put more efforts on that, after discussion we 
+were choosing AI/Machine learning as the major stuff to research or to work with. The team was set up later with the people who were interested in Machine learning. You can see we have 8 person in the group now.
+The target in the group is to let all people learn machine learning technology as much as possible and try to find out opportunities to build something with machine learning to contribute to Volvo group.
+We have regular meeting every 2 weeks, on each meeting we had a predefined topic shared by team member and also we can discuss it in the team. In this way we can make a much better progress in study new algrithm or frameworks.
+From individual perspective it's much easier if somebody can share or teach them face to face. 
+
+You can see from the slide the picture was taken from one of the knowledge share meeting and this activity is still going on...
+
+
+
+As we learn the technologies day by day we were getting much familiar with it and at the same time we were looking at our projects or problems we had and think about if anything we can do using Machine learning, then we came up an
+idea to build a tool
+
+
+
